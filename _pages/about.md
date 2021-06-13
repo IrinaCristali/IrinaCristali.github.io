@@ -11,7 +11,7 @@ redirect_from:
 
 
 <p><div style="text-align: justify"> 
-I am a second-year PhD student in the Department of Statistics at the University of Chicago, working in collaboration with Professor <a href="https://http://victorveitch.com">Victor Veitch</a> on causal inference for network data. More broadly, I am interested in foundational problems in machine learning, more specifically, developing a unified understanding of the interplay between causality, differential privacy, and the generalization and convergence properties of algorithms. 
+I am a second-year PhD student in the Department of Statistics at the University of Chicago, working in collaboration with Professor <a href="https://http://victorveitch.com">Victor Veitch</a> on causal inference for network data. More broadly, I am interested in foundational problems in machine learning, specifically, developing a unified understanding of the interplay between causality, differential privacy, and the generalization and convergence properties of algorithms. 
  </div></p>
 
 
