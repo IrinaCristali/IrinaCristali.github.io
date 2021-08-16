@@ -11,13 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics and B.S. in Statistical Science, Duke University, May 2019
-* M.S. in Statistics, The University of Chicago, June 2021
+
 * Ph.D in Statistics, The University of Chicago, June 2024 (expected)
+* M.S. in Statistics, The University of Chicago, June 2021
+* B.S. in Mathematics and B.S. in Statistical Science, Duke University, May 2019
 
 Research experience
 ======
-* Summer 2015: Research Assistant
+* March 2021 - present: Research Assistant - "Estimating Social on Networks"
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
