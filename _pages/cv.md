@@ -16,11 +16,11 @@ Education
 * M.S. in Statistics, The University of Chicago, June 2021
 * B.S. in Mathematics and B.S. in Statistical Science, Duke University, May 2019
 
-Research experience
+Research Experience
 ======
-* March 2021 - present: Research Assistant - "Estimating Social on Networks"
-  * Github University
-  * Duties included: Tagging issues
+* March 2021 - present: Research Assistant - "Estimating Social Contagion on Networks"
+  * The University of Chicago, IL
+  * Developing a method of performing estimation and inference of contagion effects over a social network, namely the causal influencethat units, or nodes, of the network have on other units, given unobserved confounders. This has historically represented achallenging problem since contagion is generally confounded with homophily, the tendency of connected units to share common(latent) traits. 
   * Supervisor: Professor Git
 
 * Fall 2015: Research Assistant
