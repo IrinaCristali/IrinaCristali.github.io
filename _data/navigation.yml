@@ -18,12 +18,12 @@ main:
  # - title: "CV"
  #   url: /cv/
     
-   links:
+
    - title: CV
      url: /Academic_CV.pdf
      external: true
-   - title: Github
-     url: https://github.com/IrinaCristali
+  # - title: Github
+  #   url: https://github.com/IrinaCristali
     
  # - title: "Guide"
  #   url: /markdown/
