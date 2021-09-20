@@ -1,7 +1,7 @@
 # main links links
 main:
- - title: "Publications"
-    url: /Academic_CV.pdf
+ - title: Publications
+    url: /publications/
     #external: true
     
 
