@@ -2,6 +2,7 @@
 main:
   - title: "Publications"
     url: /articles.md
+    external: true
 
  # - title: "Talks"
  #   url: /talks/    
