@@ -11,7 +11,7 @@ redirect_from:
 
 
 <p><div style="text-align: justify"> 
-I am a third-year PhD student in the Department of Statistics at the University of Chicago. I am broadly interested in causal inference, random graphs, and differential privacy. I am very fortunate to be advised by Professor <a href="https://http://victorveitch.com">Victor Veitch</a>. 
+I am a third-year PhD student in the Department of Statistics at the University of Chicago. I am broadly interested in causal inference, random graphs, and differential privacy. I am very fortunate to be advised by Professor <a href="http://victorveitch.com">Victor Veitch</a>. 
  </div></p>
 
 
