@@ -1,8 +1,8 @@
 # main links links
 main:
   - title: "Publications"
-    url: IrinaCristali.github.io/_publications/articles.md
-    external: true
+    url: /publications/
+    
 
  # - title: "Talks"
  #   url: /talks/    
