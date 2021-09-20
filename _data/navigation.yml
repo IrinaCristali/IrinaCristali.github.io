@@ -15,8 +15,15 @@ main:
  # - title: "Blog Posts"
  #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+ # - title: "CV"
+ #   url: /cv/
+    
+   links:
+   - title: CV
+     url: /Academic_CV.pdf
+     external: true
+   - title: Github
+     url: https://github.com/IrinaCristali
     
  # - title: "Guide"
  #   url: /markdown/
