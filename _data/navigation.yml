@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: Publications
-    url: /articles.md
+  - title: "Publications"
+    url: /articles/
     #external: true
     
 
