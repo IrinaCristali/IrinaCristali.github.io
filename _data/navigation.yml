@@ -21,9 +21,9 @@ main:
  #   url: /cv/
     
 
-  - title: CV
-    url: /Academic_CV.pdf
-    external: true
+ # - title: CV
+ #   url: /Academic_CV.pdf
+ #   external: true
   # - title: Github
   #   url: https://github.com/IrinaCristali
     
