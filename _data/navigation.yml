@@ -1,6 +1,6 @@
 # main links links
 main:
- #- title: Publications
+  - title: Publications
  #   url: /publications/
     #external: true
     
@@ -11,19 +11,11 @@ main:
  # - title: "Teaching"
  #   url: /teaching/    
     
-#  - title: "Portfolio"
-#    url: /portfolio/
-        
- # - title: "Blog Posts"
- #   url: /year-archive/
-    
- # - title: "CV"
- #   url: /cv/
     
 
- # - title: CV
- #   url: /Academic_CV.pdf
- #   external: true
+  - title: CV
+    url: /Academic_CV.pdf
+    external: true
   # - title: Github
   #   url: https://github.com/IrinaCristali
     
