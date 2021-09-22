@@ -18,9 +18,7 @@ main:
     external: true
   # - title: Github
   #   url: https://github.com/IrinaCristali
-  - title: "Contact"
-    url: /contact/
-    #external: true
+
     
  # - title: "Guide"
  #   url: /markdown/
