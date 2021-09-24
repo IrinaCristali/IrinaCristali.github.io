@@ -23,5 +23,9 @@ Previously, I completed my undergraduate studies at Duke University, where I dou
 Prior to Duke, I was born and raised in Bucharest, Romania, where I nurtured my passion for finding rigorous proofs and explanations, by participating in numerous math contests and olympiads. 
 </div></p>
 
+<p><div style="text-align: justify"> 
+<i>email:</i> icristali[at]uchicago.edu 
+</div></p>
+
 
 
