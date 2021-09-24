@@ -24,7 +24,7 @@ Prior to Duke, I was born and raised in Bucharest, Romania, where I nurtured my 
 </div></p>
 
 <p><div style="text-align: justify"> 
-<i>email:</i> icristali[at]uchicago.edu 
+<i>e-mail:</i> icristali[at]uchicago.edu 
 </div></p>
 
 
