@@ -7,7 +7,7 @@ author_profile: true
 
 ### Working Papers
 
- - **Cristali, I.**, Veitch, V. Using Embeddings to Estimate Peer Influence on Social Networks (2021). Paper draft available upon request.
+ - **Cristali, I.**, Veitch, V. Using embeddings to estimate peer influence on social networks (2021). Paper draft available upon request.
 
 ### Publications / Preprints
 
