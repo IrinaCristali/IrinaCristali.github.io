@@ -11,7 +11,7 @@ redirect_from:
 
 
 <p><div style="text-align: justify"> 
-I am a fourth-year PhD student in the Department of Statistics at the University of Chicago. I am broadly interested in causal inference, network embedding methods, representation learning, and differential privacy. In particular, my recent work addresses the use of NLP-inspired embedding methods to estimate peer contagion effects on networks, as well as investigating the causal representation learning properties of massive vision-language models, such as CLIP and DALLE-2. I am very fortunate to be advised by Professor <a href="http://victorveitch.com">Victor Veitch</a>. 
+I am a fourth-year PhD student in the Department of Statistics at the University of Chicago. I am broadly interested in causal inference, network embedding methods, representation learning, and differential privacy. In particular, my recent work addresses the use of NLP-inspired embedding methods to estimate peer contagion effects on networks, as well as investigating the causal representation learning properties of massive vision-language models, such as CLIP and DALL-E 2. I am very fortunate to be advised by Professor <a href="http://victorveitch.com">Victor Veitch</a>. 
  </div></p>
 
 
